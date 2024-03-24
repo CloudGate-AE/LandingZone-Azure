@@ -1,13 +1,4 @@
-# Azure Landing Zones (Enterprise-Scale) - Reference Implementation
-
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/azure/enterprise-scale.svg)](http://isitmaintained.com/project/azure/enterprise-scale "Average time to resolve an issue")
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/azure/enterprise-scale.svg)](http://isitmaintained.com/project/azure/enterprise-scale "Percentage of issues still open")
-
-## User documentation
-
-To find out more about the Azure landing zones reference implementation, please refer to the [documentation on our Wiki](https://github.com/Azure/Enterprise-Scale/wiki)
-
----
+# Azure Landing Zones (Enterprise-Scale)
 
 ## Objective
 
@@ -54,19 +45,3 @@ It is also assumed that readers have a broad understanding of key Azure construc
 The Azure Landing Zones (Enterprise-Scale Architecture) is modular by design and allows customers to start with foundational Landing Zones that support their application portfolios, regardless of whether the applications are being migrated or are newly developed and deployed to Azure. The architecture can scale alongside the customer's business requirements regardless of scale point. In this repository we are providing the following five templates representing different scenarios composed using ARM templates.
 
 [![Deploy To Azure](https://learn.microsoft.com/en-us/azure/templates/media/deploy-to-azure.svg)](https://aka.ms/alz/portal)
-
-You can find all of the implementation options for Azure Landing Zones here: [aka.ms/alz/aac](https://aka.ms/alz/aac#platform)
-
-## Contributing
-
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit [Contributor License Agreement (CLA)](https://cla.opensource.microsoft.com).
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
